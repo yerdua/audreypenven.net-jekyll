@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  {% haml head.haml %}
 
-  <body>
+  <body class="{{ page.body_class }}-body">
 
-    {% include header.html %}
+    {% haml header.haml %}
 
-    <div class="page-content">
-      <div class="wrapper">
+    <div class='wrapper'>
+      <div class="page-content">
         {{ content }}
       </div>
-    </div>
 
-    {% include footer.html %}
+      {% haml footer.haml %}
+    </div>
 
   </body>
 
