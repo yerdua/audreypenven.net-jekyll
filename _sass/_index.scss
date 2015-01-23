@@ -20,6 +20,7 @@
 
 .index-body {
 	section {
-		height: 300px;
+		// padding: $section-padding 0;
+		min-height: 300px;
 	}
 }

@@ -7,17 +7,18 @@ $dark-cherry: #7F141B;
 $silver: 			#777677;
 
 // Sizes
-$top-nav-height: 80px;
+$top-nav-height: 	80px;
+$spacing-unit:   	30px;
 
 
-// // Our variables 
+// Font stuff
 $base-font-family: Oxygen, Helvetica, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
 
 
+//TODO: kill these
 $on-palm:          600px;
 $on-laptop:        800px;
