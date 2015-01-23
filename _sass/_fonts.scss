@@ -1,28 +1,89 @@
-/**
- * @license
- * MyFonts Webfont Build ID 2948561, 2015-01-07T01:40:11-0500
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: TrendSansOne by Latinotype
- * URL: http://www.myfonts.com/fonts/latinotype/trend/sans-one/
- * Copyright: Copyright (c) 2012 by Daniel Hernandez &amp; Paula nazal. All rights reserved.
- * Licensed pageviews: 10,000
- * 
- * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=2948561
- * 
- * © 2015 MyFonts Inc
-*/
+@font-face {
+	font-family: Trend-Sans-One;
+	src: url("/fonts/Trend-Sans-One.otf") format("opentype");
+}
 
+@font-face {
+	font-family: Trend-Sans-One;
+	src: url("/fonts/Trend-Sans-One-Italic.otf") format("opentype");
+	font-style: italic;
+}
 
-/* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/2cfdd1");
+@font-face {
+	font-family: Trend-Sans-Four;
+	src: url("/fonts/Trend-Sans-Four.otf") format("opentype");
+}
 
-  
-@font-face {font-family: 'TrendSansOne';src: url('../fonts/trend_sans_one.eot');src: url('../fonts/trend_sans_one.eot?#iefix') format('embedded-opentype'),url('../fonts/trend_sans_one.woff2') format('woff2'),url('../fonts/trend_sans_one.woff') format('woff'),url('../fonts/trend_sans_one.ttf') format('truetype');}
- 
+@font-face {
+	font-family: Trend-Sans-Four;
+	src: url("/fonts/Trend-Sans-Four-Italic.otf") format("opentype");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Trend-Sans-Five;
+	src: url("/fonts/Trend-Sans-Five.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Trend-Sans-Five;
+	src: url("/fonts/Trend-Sans-Five-Italic.otf") format("opentype");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Trend-HM-Sans-One;
+	src: url("/fonts/Trend-HM-Sans-One.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Trend-HM-Sans-One;
+	src: url("/fonts/Trend-HM-Sans-One-Italic.otf") format("opentype");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Trend-HM-Sans-Four;
+	src: url("/fonts/Trend-HM-Sans-Four.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Trend-HM-Sans-Four;
+	src: url("/fonts/Trend-HM-Sans-Four-Italic.otf") format("opentype");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Trend-HM-Sans-Five;
+	src: url("/fonts/Trend-HM-Sans-Five.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Trend-HM-Sans-Five;
+	src: url("/fonts/Trend-HM-Sans-Five-Italic.otf") format("opentype");
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Oxygen;
+	src: url("/fonts/Oxygen.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Oxygen;
+	src: url("/fonts/Oxygen-Bold.otf") format("opentype");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: Oxygen;
+	src: url("/fonts/Oxygen-BoldItalic.otf") format("opentype");
+	font-style: italic;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: Oxygen;
+	src: url("/fonts/Oxygen-Italic.otf") format("opentype");
+	font-style: italic;
+}

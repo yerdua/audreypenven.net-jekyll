@@ -8,14 +8,12 @@
 	.title {
 		background-color: $blood-red;
 		color: $black;
-		text-align: right;
 		margin: auto;
-		width: 800px;
 		opacity: 0.9;
-		h1 { 
-			font-size: 50px;
-			line-height: 100px;
-			margin: 0 40px;
+		padding: 40px;
+		width: 80%;
+		img {
+			width: 100%;
 		}
 	}
 }
