@@ -7,15 +7,27 @@ body_class: index
 	.title
 		%img{src: '/images/logo_large.png'}
 
-%section.about
-	%img{src: '/images/self_portrait_ljubljana.jpg'}
-%section.portfolio
-	Portfolio stuff goes here
-%section.about
+%section.about.row
+	.col-xs-12
+		%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
+		%p
+			This is where my bio goes. 
+%section.portfolio.row
+	%a{href: '/portfolio/portraits'}
+		portraits
+	%a{href: 'portfolio/performance'}
+		performance
+	%a{href: 'portfolio/events'}
+		events
+	%a{href: 'portfolio/projects'}
+		projects
+	
+%section.about.row
 	About goes here
-%section.flickr
+%section.flickr.row
 	Flickr stream goes here
-%section.contact
-	%i.fa.fa-twitter
-	%i.fa.fa-flickr
-	%i.fa.fa-envelope
+%section.contact.row
+	.col-xs-12
+		%i.fa.fa-twitter
+		%i.fa.fa-flickr
+		%i.fa.fa-envelope
