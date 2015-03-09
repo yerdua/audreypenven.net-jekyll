@@ -22,10 +22,15 @@ body_class: index
 	%a{href: 'portfolio/projects'}
 		projects
 	
+
 %section.about.row
 	About goes here
+	{% flickr_album_tag 72157648563900283 %}
 %section.flickr.row
-	Flickr stream goes here
+	.col-xs-12
+		%h2 Flickr Stream
+	.col-xs-12
+		{% flickr_recent_albums 6 %}
 %section.contact.row
 	.col-xs-12
 		%i.fa.fa-twitter
