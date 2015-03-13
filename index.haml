@@ -3,36 +3,51 @@ layout: default
 body_class: index
 ---
 
-%section#title-section
-	.title
-		%img{src: '/images/logo_large.png'}
+%section#title-section  
+	.container
+		.row
+			.col-xs-12    
+				.title
+					%img{src: '/images/logo_large.png'}
 
-%section.about.row
-	.col-xs-12
-		%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
-		%p
-			This is where my bio goes. 
-%section.portfolio.row
-	%a{href: '/portfolio/portraits'}
-		portraits
-	%a{href: 'portfolio/performance'}
-		performance
-	%a{href: 'portfolio/events'}
-		events
-	%a{href: 'portfolio/projects'}
-		projects
-	
+%section.about     
+	.container
+		.row
+			.col-xs-12
+				%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
+				%p
+					This is where my bio goes. 
+%section.portfolio   
+	.container
+		.row
+			%a{href: '/portfolio/portraits'}
+				portraits
+			%a{href: 'portfolio/performance'}
+				performance
+			%a{href: 'portfolio/events'}
+				events
+			%a{href: 'portfolio/projects'}
+				projects
+		
 
-%section.about.row
-	About goes here
-	{% flickr_album_tag 72157648563900283 %}
-%section.flickr.row
-	.col-xs-12
-		%h2 Flickr Stream
-	.col-xs-12
-		{% flickr_recent_albums 6 %}
-%section.contact.row
-	.col-xs-12
-		%i.fa.fa-twitter
-		%i.fa.fa-flickr
-		%i.fa.fa-envelope
+%section.about
+	.container
+		.row
+			About goes here
+%section.flickr
+	.container
+		.row
+			.col-xs-12
+				%h2 Flickr Stream
+			.col-xs-12
+				{% flickr_recent_albums 6 %}
+			.col-xs-12.text-right
+				%a.more{href: 'https://www.flickr.com/photos/audreypenven/sets'}
+					more
+%section.contact      
+	.container
+		.row
+			.col-xs-12
+				%i.fa.fa-twitter
+				%i.fa.fa-flickr
+				%i.fa.fa-envelope

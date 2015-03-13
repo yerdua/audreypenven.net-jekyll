@@ -16,15 +16,25 @@ module Jekyll
       "https://www.flickr.com/photos/audreypenven/sets/#{id}"
     end
 
-    def build_primary_url(flickr_album)
+    # flickr size code:
+    # Square:       s
+    # Large Square: q
+    # Thumbnail:    t
+    # Small:        m
+    # Small 320:    n
+    # Medium 640:   z
+    # Medium 800:   c
+    # Large:        b
+    # Original:     o
+    def build_primary_url(flickr_album, size = 'q')
       if flickr_album['primary_photo_extras']
-        flickr_album['primary_photo_extras']['url_q']
+        flickr_album['primary_photo_extras']["url_#{size}"]
       else
         farm = flickr_album['farm']
         server = flickr_album['server']
         secret = flickr_album['secret']
 
-        "https://farm#{farm}.staticflickr.com/#{server}/#{primary_id}_#{secret}_q.jpg"
+        "https://farm#{farm}.staticflickr.com/#{server}/#{primary_id}_#{secret}_#{size}.jpg"
       end
     end 
   end

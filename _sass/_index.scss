@@ -11,7 +11,7 @@
 		margin: auto;
 		opacity: 0.9;
 		padding: 40px;
-		width: 80%;
+		// width: 80%;
 		img {
 			width: 100%;
 		}
@@ -38,4 +38,14 @@
 			border-bottom: 3px solid $blood-red;
 		}
 	}
+	a.more {
+	  @include trend-sans-font;
+	  border-bottom: 2px solid $blood-red;
+	  &:hover, &:focus, &:visited {
+	  	text-decoration: none;
+	  }
+		// text-decoration: underline;
+	}
 }
+
+

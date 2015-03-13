@@ -23,6 +23,10 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+.container {
+  max-width: 1050px;
+}
+
 .site-header {
   background-color: $black;
 }
@@ -88,7 +92,6 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   @include trend-sans-font;
-  // font-weight: 300;
 }
 
 
@@ -96,9 +99,13 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a {
+a, {
   color: $blood-red;
   text-decoration: none;
+
+  &:visited, &:focus {
+    color: darken($blood-red, 5%);
+  }
 
   &:hover {
     color: lighten($blood-red, 5%);
@@ -236,4 +243,17 @@ pre {
     }
   }
 
+}
+
+/**
+  * Text alignment
+  */
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
 }
