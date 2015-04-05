@@ -1,4 +1,4 @@
-#title-section {
+#site-title {
 	height: 500px;
 	background-image: url("/images/section_backgrounds/index2.jpg");
 	background-attachment: fixed;
@@ -22,11 +22,11 @@
 	section {
 		// padding: $section-padding 0;
 		min-height: 300px;
-		&:nth-child(odd) {
+		&:nth-child(even) {
 			background-color: $black;
 			color: $blood-red;
 		}
-		&:nth-child(even) {
+		&:nth-child(odd) {
 			background-color: $blood-red;
 			color: $black;
 		}

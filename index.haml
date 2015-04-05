@@ -3,37 +3,35 @@ layout: default
 body_class: index
 ---
 
-%section#title-section  
+%section#site-title 
 	.container
 		.row
 			.col-xs-12    
 				.title
 					%img{src: '/images/logo_large.png'}
 
+%section.portfolio   
+	.container
+		.row
+			.col-xs-12
+				%h2 Portfolio
+			.col-xs-12
+				%a{href: '/portfolio/portraits'}
+					portraits
+				%a{href: 'portfolio/performance'}
+					performance
+				%a{href: 'portfolio/events'}
+					events
+				%a{href: 'portfolio/projects'}
+					projects
 %section.about     
 	.container
 		.row
 			.col-xs-12
 				%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
 				%p
-					This is where my bio goes. 
-%section.portfolio   
-	.container
-		.row
-			%a{href: '/portfolio/portraits'}
-				portraits
-			%a{href: 'portfolio/performance'}
-				performance
-			%a{href: 'portfolio/events'}
-				events
-			%a{href: 'portfolio/projects'}
-				projects
+					Audrey Penven
 		
-
-%section.about
-	.container
-		.row
-			About goes here
 %section.flickr
 	.container
 		.row

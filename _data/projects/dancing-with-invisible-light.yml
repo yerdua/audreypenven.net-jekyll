@@ -1,0 +1,53 @@
+layout: photography_project
+title: Dancing With Invisible Light
+
+primary_photo: IMG_0089.jpg
+photos:
+  - filename: IMG_0047.jpg
+    caption:  'model: <a href="http://www.raindrift.com/">Ian Baker</a>'
+  - filename: IMG_0067.jpg
+    caption: 'model: qtrnevermore'
+  - filename: IMG_0088.jpg
+    caption: 'model: qtrnevermore'
+  - filename: IMG_0089.jpg
+    caption: 'model: qtrnevermore'
+  - filename: IMG_0091.jpg
+    caption: 'model: qtrnevermore'
+  - filename: IMG_0127.jpg
+    caption: 'model: C. King'
+  - filename: IMG_0148.jpg
+    caption: 'model: C. King'
+  - filename: IMG_0153.jpg
+    caption: 'model: C. King'
+  - filename: IMG_0169.jpg
+    caption: 'model: C. King'
+  - filename: IMG_0183.jpg
+    caption: 'model: <a href="http://www.mikeestee.com/portfolio/">Mike Estee</a>'
+  - filename: IMG_0187.jpg
+    caption: 'model: <a href="http://www.mikeestee.com/portfolio/">Mike Estee</a>'
+  - filename: IMG_0190.jpg
+    caption: 'model: <a href="http://www.mikeestee.com/portfolio/">Mike Estee</a>'
+  - filename: IMG_0196.jpg
+    caption: 'model: <a href="http://www.mikeestee.com/portfolio/">Mike Estee</a>'
+  - filename: IMG_0201.jpg
+    caption: 'model: <a href="http://www.mikeestee.com/portfolio/">Mike Estee</a>'
+  - filename: IMG_0225.jpg
+    caption: 'model: KC'
+  - filename: IMG_0235.jpg
+    caption: 'model: KC'
+  - filename: IMG_0253.jpg
+    caption: 'model: KC'
+  - filename: IMG_0301.jpg
+    caption: 'model: KC'
+  - filename: IMG_0322.jpg
+    caption: 'model: KC'
+  - filename: IMG_0327.jpg
+    caption: 'model: <a href="http://www.thisisstar.com/">Star St. Germain</a>'
+  - filename: IMG_0339.jpg
+    caption: 'model: <a href="http://www.thisisstar.com/">Star St. Germain</a>'
+  - filename: IMG_0341.jpg
+    caption: 'model: <a href="http://www.thisisstar.com/">Star St. Germain</a>'
+  - filename: IMG_0374.jpg
+    caption: 'model: Helyx'
+  - filename: IMG_0396.jpg
+    caption: 'models: Josh St. John and Annetta Black'

@@ -1,0 +1,54 @@
+---
+layout: default
+body_class: photography-project
+---
+<script type="text/javascript">
+  $(function(){
+    $('.gallery a').featherlightGallery({
+      afterContent: function(e){
+        var height = $('.featherlight-content', this.$instance).height();
+
+        $('img', this.$content).attr('style', 'max-height:' + (height - 30) + 'px;');
+
+        var width = $('.featherlight-content', this.$instance).width();
+
+        $('.caption', this.$content).attr('style', 'width:' + width + 'px;');
+      }
+    });
+  });
+</script>
+
+<section id='project-title'>
+  <div class='container'>
+    <h1>{{ page.title }}</h1>
+    <div class='row'>
+      <div class='col-xs-12'>
+        <img src='/images/photography/{{ page.project_key }}/gallery/{{ page.primary_photo }}' class='primary-photo'>
+        {% include_html description.html %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id='gallery'>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-xs-12 gallery'>
+        {% for photo in page.photos %}
+          <a href='#photo-{{ forloop.index0 }}'>
+            <img src='{{ page.image_folder }}/thumbnails/{{ photo.filename }}'>
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class='hide'>
+  {% for photo in page.photos %}
+    <div class='photo' id='photo-{{ forloop.index0 }}'>
+      <img src='{{ page.image_folder }}/gallery/{{ photo.filename }}'>
+      <div class='caption'>{{ photo.caption }}</div>
+    </div>
+  {% endfor %}
+</div>

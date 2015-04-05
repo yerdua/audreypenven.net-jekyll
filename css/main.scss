@@ -25,14 +25,18 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+  'variables',
   'bootstrap',
-	'fonts',
-	'variables',
-	'mixins',
+  'featherlight',
+  'featherlight.gallery',
+  'fonts',
+  'font-awesome',
+  'mixins',
   'base',
   'layout',
   'syntax-highlighting',
-  'font-awesome',
+  'photos',
   //page-specific-styling:
-  'index'
+  'index',
+  'photography_project'
 ;
