@@ -1,0 +1,49 @@
+---
+layout: default
+body_class: photography-project
+js_files: 
+  - photography_page.onready.js
+---
+
+
+{% assign project_data = site.data.projects[page.key] %}
+
+<section id='primary-image' class='{{ project_data.key }}'>
+  <div class='container'>
+  </div>
+</section>
+
+<section id='gallery'>
+  <div class='container'>
+    <h1>{{ project_data.title }}</h1>
+      {% for photo in project_data.photos %}
+        <a href='#photo-{{ forloop.index0 }}'>
+          <img src='/images/photography/{{ project_data.key }}/thumbnails/{{ photo.filename }}'>
+        </a>
+      {% endfor %}
+  </div>
+</section>
+
+<section>
+  <div class='container'>
+    {% contentblock description %}
+  </div>
+</section>
+
+{% capture credits_content %}{% contentblock credits %}{% endcapture %}
+{% if credits_content != '' %}
+  <section>
+    <div class='container'>
+      <h2>Collaborators, Credits, Thanks</h2>
+      {{ credits_content }}
+    </div>
+  </section>
+{% endif %}
+<div class='hide'>
+  {% for photo in project_data.photos %}
+    <div class='photo' id='photo-{{ forloop.index0 }}'>
+      <img src='/images/photography/{{ project_data.key }}/gallery/{{ photo.filename }}'>
+      <div class='caption'>{{ photo.caption }}</div>
+    </div>
+  {% endfor %}
+</div>

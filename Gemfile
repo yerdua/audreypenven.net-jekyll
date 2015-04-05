@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'haml'
 gem 'jekyll-haml'
+gem 'jekyll-contentblocks'
 gem 'flickraw'
 gem 'pry'

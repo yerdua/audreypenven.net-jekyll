@@ -2,11 +2,28 @@
   h1 {
     color: $blood-red;
     border-bottom: 3px solid $blood-red;
+    margin-bottom: 30px;
   }
-  section {
+  section:nth-child(even) {
     background-color: $black;
     color: $silver;
   }
+  section:nth-child(odd) {
+    background-color: $blood-red;
+    color: $black
+  }
   .primary-photo {
+    margin: 0 auto;
+  }
+
+  #primary-image {
+    height: 500px;
+    background-attachment: fixed;
+
+    &.dancing-with-invisible-light {
+      background-image: url("/images/section_backgrounds/primary-images/dancing-with-invisible-light.jpg");
+      background-size: cover;
+      background-position: center;
+    }
   }
 }
