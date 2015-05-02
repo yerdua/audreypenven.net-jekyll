@@ -1,4 +1,4 @@
-.photography-project-body {
+.photography-page-body {
   h1 {
     color: $blood-red;
     border-bottom: 3px solid $blood-red;
@@ -27,13 +27,13 @@
     background-position: center;
 
     &.dancing-with-invisible-light {
-      background-image: url('/images/section_backgrounds/primary-images/dancing-with-invisible-light.jpg');
+      background-image: url('/images/photography/dancing-with-invisible-light/background.jpg');
     }
     &.an-incomplete-rebirth {
-      background-image: url('/images/section_backgrounds/primary-images/an-incomplete-rebirth.jpg');
+      background-image: url('/images/photography/an-incomplete-rebirth/background.jpg');
     }
     &.six {
-      background-image: url('/images/section_backgrounds/primary-images/six.jpg');
+      background-image: url('/images/photography/six/background.jpg');
     }
   }
 

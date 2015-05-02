@@ -1,12 +1,12 @@
 ---
 layout: default
-body_class: photography-project
+body_class: photography-page
 js_files:
   - photography_page.onready.js
 ---
 
 
-{% assign project_data = site.data.projects[page.key] %}
+{% assign photography_set_data = site.data.photography[page.key] %}
 
 <section id='primary-image' class='{{ page.key }}'>
   <div class='container'>
@@ -15,8 +15,8 @@ js_files:
 
 <section id='gallery'>
   <div class='container'>
-    <h1>{{ project_data.title }}</h1>
-      {% for photo in project_data.photos %}
+    <h1>{{ photography_set_data.title }}</h1>
+      {% for photo in photography_set_data.photos %}
         <a href='#photo-{{ forloop.index0 }}'>
           <img src='/images/photography/{{ page.key }}/thumbnails/{{ photo.filename }}' class='thumbnail'>
         </a>
@@ -52,7 +52,7 @@ js_files:
 {% endif %}
 
 <div class='hide'>
-  {% for photo in project_data.photos %}
+  {% for photo in photography_set_data.photos %}
     <div class='photo' id='photo-{{ forloop.index0 }}'>
       <img src='/images/photography/{{ page.key }}/gallery/{{ photo.filename }}'>
       {% if photo.caption && photo.caption != '' %}
