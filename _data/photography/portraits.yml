@@ -1,0 +1,103 @@
+title: Portraits
+
+photos:
+  - filename: dworia.jpg
+    caption: '<h4>Dwoira Galilea</h4><p>model: Dwoira Galilea<br />fashion: <a href="http://www.darkgarden.com" target="_blank">Dark Garden</a></p>'
+  - filename: nancy-vienna.jpg
+    caption: '<h4>Nancy Mauro-Flude</h4><p><a href="http://sister0.org/" target="_blank">Nancy Mauro-Flude</a>, Vienna, April 2008</p>'
+  - filename: dymaxion.jpg
+    caption: '<h4>Eleanor Saitta</h4><p><a href="http://dymaxion.org/" target="_blank">Eleanor Saitta</a>, San Francisco, 2014</p>'
+  - filename: spider-jerusalem.jpg
+    caption: >
+      <h4>Spider Jerusalem</h4>
+      <p>
+        For "Transmetropolitan: All Around The World", a collection of artworks inspired by
+        <a href="http://www.warrenellis.com/" target="_blank">Warren Ellis</a> and Darick Robertson’s Transmetropolitan.
+      </p>
+      <p>
+        <a href="http://www.twitter.com/sfslim" target="_blank">Aaron Muszalski</a> (Model, post-production)<br />
+        Lee Dotson (Makeup, post-production)<br />
+        <a href="http://www.mikeestee.com" target="_blank">Mike Estee</a> (Lighting Aerialist)<br />
+        <a href="http://www.mediapathic.net" target="_blank">Steen Comer</a> (Graffiti, Laser)<br />
+        <a href="http://www.qtrnevermore.com/" target="_blank">qtrnevermore</a> (Smoke Puppeteer)<br />
+        <a href="http://www.nicolation.net" target="_blank">Nicole Aptekar</a> (Smoke Puppeteer)<br />
+        Christina Liu (Smoke Puppeteer, Aerial Assistance)<br />
+        <a href="http://www.raindrift.com" target="_blank">Ian Baker</a> (Laser, Lighting Assistance)<br />
+        <a href="http://valerieleavy.com/" target="_blank">Valerie Leavy</a> (Bourbon Angel)
+      </p>
+  - filename: fragmented-self.jpg
+    caption: '<h4>Fragmented Self</h4><p>self-portrait, June, 2012</p>'
+  - filename: steen-1.jpg
+    caption: >
+      <h4>Light Stutters</h4>
+      <p>
+        <a href="http://mediapathic.net/" target="_blank">Steen Comer</a> with
+        <a href="http://www.gabeytjonatham.com/" target="_blank">Gabey Tjon a Tham</a>'s "Red Horizon"
+      </p>
+      <p>
+        <a href="http://sonica.si/" target="_blank">Sonica Festival</a>, <a href="http://motamuseum.com/" target="_blank">Museum of Transitory Art</a>
+        <br />
+        Ljubljana, November 26, 2014
+      </p>
+  - filename: jill-tracy-lace-shadows-1.jpg
+    caption: >
+      <h4>In Lace Shadows</h4>
+      <p>
+        <a href="http://www.jilltracy.com" target="_blank">Jill Tracy</a> (model)<br />
+        <a href="http://www.mikeestee.com/portfolio" target="_blank">Mike Estee</a> (design & construction of
+        <a href="http://www.mikeestee.com/blog/2011/06/the-accidental-strobist/" target="_blank">Slide!Flash</a>)<br />
+        Eli Rosseter (location coordination, assistance)
+        <a href="http://www.twitter.com" target="_blank">Aaron Muszalski</a> (assistance)
+      </p>
+  - filename: stripmall-architecture-2010-1.jpg
+    caption:
+  - filename: jill-tracy-lace-shadows-2.jpg
+    caption: >
+      <h4>In Lace Shadows</h4>
+      <p>
+        <a href="http://www.jilltracy.com" target="_blank">Jill Tracy</a> (model)<br />
+        <a href="http://www.mikeestee.com/portfolio" target="_blank">Mike Estee</a> (design & construction of
+        <a href="http://www.mikeestee.com/blog/2011/06/the-accidental-strobist/" target="_blank">Slide!Flash</a>)<br />
+        Eli Rosseter (location coordination, assistance)<br />
+        <a href="http://www.twitter.com" target="_blank">Aaron Muszalski</a> (assistance)
+      </p>
+  - filename: stripmall-architecture-2010-2.jpg
+    caption:
+  - filename: kim-boekbinder-gliter-3.jpg
+    caption:
+  - filename: theremina.jpg
+    caption:
+  - filename: kim-boekbinder-glitter-1.jpg
+    caption:
+  - filename: unwoman-casualties-1.jpg
+    caption:
+  - filename: kim-boekbinder-glitter-2.jpg
+    caption:
+  - filename: unwoman-casualties-2.jpg
+    caption:
+  - filename: kim-boekbinder-spacegirl-1.jpg
+    caption:
+  - filename: unwoman-circling-1.jpg
+    caption:
+  - filename: kim-boekbinder-spacegirl-2.jpg
+    caption:
+  - filename: unwoman-circling-2.jpg
+    caption:
+  - filename: maggie-dave.jpg
+    caption:
+  - filename: unwoman-circling-3.jpg
+    caption:
+  - filename: meeks-1.jpg
+    caption:
+  - filename: unwoman-fires-1.jpg
+    caption:
+  - filename: meeks-2.jpg
+    caption:
+  - filename: unwoman-fires-2.jpg
+    caption:
+  - filename: nadia-1.jpg
+    caption:
+  - filename: unwoman-fires-3.jpg
+    caption:
+  - filename: nadia-2.jpg
+    caption:
