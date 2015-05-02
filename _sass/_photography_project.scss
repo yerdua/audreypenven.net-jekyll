@@ -10,7 +10,11 @@
   }
   section:nth-child(odd) {
     background-color: $blood-red;
-    color: $black
+    color: $black;
+    a {
+      color: $black;
+      text-decoration: underline;
+    }
   }
   .primary-photo {
     margin: 0 auto;
@@ -19,11 +23,29 @@
   #primary-image {
     height: 500px;
     background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 
     &.dancing-with-invisible-light {
-      background-image: url("/images/section_backgrounds/primary-images/dancing-with-invisible-light.jpg");
-      background-size: cover;
-      background-position: center;
+      background-image: url('/images/section_backgrounds/primary-images/dancing-with-invisible-light.jpg');
+    }
+    &.an-incomplete-rebirth {
+      background-image: url('/images/section_backgrounds/primary-images/an-incomplete-rebirth.jpg');
+    }
+    &.six {
+      background-image: url('/images/section_backgrounds/primary-images/six.jpg');
+    }
+  }
+
+  h4 {
+    margin-bottom: 0;
+  }
+  .model-list {
+    list-style: none;
+    margin: 0;
+    li {
+      display: inline-block;
+      margin-right: 10px;
     }
   }
 }

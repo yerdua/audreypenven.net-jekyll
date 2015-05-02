@@ -1,14 +1,14 @@
 ---
 layout: default
 body_class: photography-project
-js_files: 
+js_files:
   - photography_page.onready.js
 ---
 
 
 {% assign project_data = site.data.projects[page.key] %}
 
-<section id='primary-image' class='{{ project_data.key }}'>
+<section id='primary-image' class='{{ page.key }}'>
   <div class='container'>
   </div>
 </section>
@@ -18,13 +18,13 @@ js_files:
     <h1>{{ project_data.title }}</h1>
       {% for photo in project_data.photos %}
         <a href='#photo-{{ forloop.index0 }}'>
-          <img src='/images/photography/{{ project_data.key }}/thumbnails/{{ photo.filename }}'>
+          <img src='/images/photography/{{ page.key }}/thumbnails/{{ photo.filename }}' class='thumbnail'>
         </a>
       {% endfor %}
   </div>
 </section>
 
-<section>
+<section id='description'>
   <div class='container'>
     {% contentblock description %}
   </div>
@@ -32,18 +32,32 @@ js_files:
 
 {% capture credits_content %}{% contentblock credits %}{% endcapture %}
 {% if credits_content != '' %}
-  <section>
+  <section id='credits'>
     <div class='container'>
       <h2>Collaborators, Credits, Thanks</h2>
       {{ credits_content }}
     </div>
   </section>
 {% endif %}
+
+{% capture related_links_content %}{% contentblock related_links %}{% endcapture %}
+
+{% if related_links_content != '' %}
+  <section id='related_links'>
+    <div class='container'>
+      <h2>Related Links</h2>
+      {{ related_links_content }}
+    </div>
+  </section>
+{% endif %}
+
 <div class='hide'>
   {% for photo in project_data.photos %}
     <div class='photo' id='photo-{{ forloop.index0 }}'>
-      <img src='/images/photography/{{ project_data.key }}/gallery/{{ photo.filename }}'>
-      <div class='caption'>{{ photo.caption }}</div>
+      <img src='/images/photography/{{ page.key }}/gallery/{{ photo.filename }}'>
+      {% if photo.caption && photo.caption != '' %}
+        <div class='caption'>{{ photo.caption }}</div>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

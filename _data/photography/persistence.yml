@@ -1,0 +1,16 @@
+title: Persistence
+
+primary-photo: mond.jpg
+photos:
+  - filename: jesse.jpg
+    caption: '<h4>Jesse in the Window</h4><p><a href="https://bravenewwhat.org/" target="_blank">Jesse Darling</a>, Vienna, 2008</p>'
+  - filename: mond.jpg
+    caption: '<h4>Shadows of Mond</h4><p>Mond in Vienna, 2008</p>'
+  - filename: michael.jpg
+    caption: '<h4>Through Glass and Ink</h4><p><a href="http://www.niij.org" target="_blank">Michael Zeltner</a>, Vienna, 2008</p>'
+  - filename: jake-and-nancy.jpg
+    caption: '<h4>Jake and Nancy</h4><p><a href="https://twitter.com/ioerror" target="_blank">Jake Appelbaum</a> and <a href="http://sister0.org/" target="_blank">Nancy Mauro-Flude</a>, Vienna, 2008</p>'
+  - filename: johannes-and-evelyn.jpg
+    caption: '<h4>Johannes and Evelyn</h4><p><a href="https://about.me/grenzfurthner" target="_blank">Johannes Grenzfurthner</a> and Evelyn Fürlinger of <a href="http://www.monochrom.at/english" target="_blank">monochrom</a></p>'
+  - filename: ossuary.jpg
+    caption: '<h4>Inside the Bone Church</h4><p><a href="http://www.ossuary.eu/index.php/en/ossuary" target="_blank">Sedlec Ossuary</a>, Kutna Hora, Czech Republic, 2008</p>'
