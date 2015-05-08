@@ -26,11 +26,14 @@
     background-size: cover;
     background-position: center;
 
+    &.an-incomplete-rebirth {
+      background-image: url('/images/photography/an-incomplete-rebirth/background.jpg');
+    }
     &.dancing-with-invisible-light {
       background-image: url('/images/photography/dancing-with-invisible-light/background.jpg');
     }
-    &.an-incomplete-rebirth {
-      background-image: url('/images/photography/an-incomplete-rebirth/background.jpg');
+    &.portraits {
+      background-image: url('/images/photography/portraits/background.jpg')
     }
     &.six {
       background-image: url('/images/photography/six/background.jpg');
