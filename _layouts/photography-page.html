@@ -55,8 +55,24 @@ js_files:
   {% for photo in photography_set_data.photos %}
     <div class='photo' id='photo-{{ forloop.index0 }}'>
       <img src='/images/photography/{{ page.key }}/gallery/{{ photo.filename }}'>
-      {% if photo.caption && photo.caption != '' %}
-        <div class='caption'>{{ photo.caption }}</div>
+      {% if (photo.title or photo.caption) %}
+        <div class='meta'>
+          {% if photo.title %}
+            <h4>{{ photo.title }}</h4>
+          {% endif %}
+
+          {% if photo.caption %}
+            {{ photo.caption }}
+          {% endif %}
+
+          {% if photo.flickr_link %}
+            <p class='flickr_link'>
+              <a href='{{photo.flickr_link}}' target='_blank'>
+                more...
+              </a>
+            </p>
+          {% endif %}
+        </div>
       {% endif %}
     </div>
   {% endfor %}

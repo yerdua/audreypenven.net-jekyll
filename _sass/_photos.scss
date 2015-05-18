@@ -1,5 +1,5 @@
 .photo {
-  .caption {
+  .meta {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -11,8 +11,13 @@
     font-size: 13px;
     text-align: center;
   }
-  &:hover .caption {
+  &:hover .meta {
     opacity: 1;
+  }
+  .flickr_link {
+    text-align: right;
+    margin-bottom: 0;
+    margin-right: 5px;
   }
 }
 

@@ -3,8 +3,8 @@ title: Music
 photos:
   - filename: 2009-10-corpus-callosum-noisebridge.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157622447015029/
+    title: Corpus Callosum
     caption: >
-      <h4>Corpus Callosum</h4>
       <p>
         <a href="https://www.noisebridge.net/" target="_blank">Noisebridge</a>,
         San Francisco - October 11, 2009<br />
@@ -13,8 +13,8 @@ photos:
 
   - filename: 2009-10-corpus-callosum-san-jose.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157622557996110/
+    title: Corpus Callosum
     caption: >
-      <h4>Corpus Callosum</h4>
       <p>
         San Jose - October 9, 2009<br />
         <a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>
@@ -22,8 +22,8 @@ photos:
 
   - filename: 2009-11-loud-objects.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157622721375785/
+    title: Loud Objects
     caption: >
-      <h4>Loud Objects</h4>
       <p>
         <a href="https://www.noisebridge.net/" target="_blank">Noisebridge</a>,
         San Francisco - November 20, 2009<br />
@@ -32,8 +32,8 @@ photos:
 
   - filename: 2010-04-stripmall-architecture.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157623802404079/
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
         San Francisco - April 23, 2010<br />
         <a href="http://www.stripmallarchitecture.com/" target="_blank">Stripmall Architecture</a>
@@ -41,8 +41,8 @@ photos:
 
   - filename: 2011-04-jill-tracy.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626488161324/
+    title: Jill Tracy
     caption: >
-      <h4>Jill Tracy</h4>
       <p>
         <a href="http://www.citylights.com/" target="_blank">City Lights</a>,
         San Francisco - April 6, 2011<br />
@@ -52,8 +52,8 @@ photos:
 
   - filename: 2011-05-corpus-callosum.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626739993396
+    title: Corpus Callosum
     caption: >
-      <h4>Corpus Callosum</h4>
       <p>
         <a href="http://amnesiathebar.com/" target="_blank">Amnesia</a>,
         San Francisco - May 2011<br />
@@ -62,16 +62,16 @@ photos:
 
   - filename: 2011-05-excuses-for-skipping.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626739960274
+    title: Excuses for Skipping
     caption: >
-      <h4>Excuses for Skipping</h4>
       <p>
         Cafe du Nord, San Francisco - May 2011<br />
         <a href="http://www.excusesforskipping.com/" target="_blank">Excuses for Skipping</a>
       </p>
   - filename: 2011-05-kim-boekbinder.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626739993396
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder</h4>
       <p>
         <a href="http://amnesiathebar.com/" target="_blank">Amnesia</a>,
         San Francisco - May 2011<br />
@@ -80,16 +80,17 @@ photos:
 
   - filename: 2011-05-stripmall-architecture-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626739960274
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
         Cafe du Nord, San Francisco - May 2011<br />
         <a href="http://www.stripmallarchitecture.com" target="_blank">Stripmall Architecture</a>
       </p>
+
   - filename: 2011-05-stripmall-architecture-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626739960274
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
         Cafe du Nord, San Francisco - May 2011<br />
         <a href="http://www.stripmallarchitecture.com" target="_blank">Stripmall Architecture</a>
@@ -97,8 +98,8 @@ photos:
 
   - filename: 2011-09-jill-tracy-soriah.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157627739524912/
+    title: Jill Tracy and Soriah
     caption: >
-      <h4>Jill Tracy & Soriah</h4>
       <p>
         <a href="http://www.reddevillounge.com/" target="_blank">Red Devil Lounge</a>,
         San Francisco - September 21, 2011<br />
@@ -109,8 +110,8 @@ photos:
 
   - filename: 2011-09-soriah-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157627739524912/
+    title: Soriah
     caption: >
-      <h4>Soriah</h4>
       <p>
         <a href="http://www.reddevillounge.com/" target="_blank">Red Devil Lounge</a>,
         San Francisco - September 21, 2011<br />
@@ -119,8 +120,8 @@ photos:
 
   - filename: 2011-09-soriah-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157627739524912/
+    title: Soriah
     caption: >
-      <h4>Soriah</h4>
       <p>
         <a href="http://www.reddevillounge.com/" target="_blank">Red Devil Lounge</a>,
         San Francisco - September 21, 2011<br />
@@ -129,8 +130,8 @@ photos:
 
   - filename: 2011-10-kim-boekbinder-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157628026179822/
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder</h4>
       <p>
         <a href="http://brickandmortarmusic.com/" target="_blank">Brick & Mortar</a>,
         San Francisco - October 16, 2011<br />
@@ -139,8 +140,8 @@ photos:
 
   - filename: 2011-10-kim-boekbinder-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157628026179822/
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder</h4>
       <p>
         <a href="http://brickandmortarmusic.com/" target="_blank">Brick & Mortar</a>,
         San Francisco - October 16, 2011<br />
@@ -149,17 +150,18 @@ photos:
 
   - filename: 2012-01-return-to-mono.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157628819422581
+    title: Return to Mono
     caption: >
-      <h4>Return to Mono</h4>
       <p>
          <a href="http://www.rickshawstop.com/" target="_blank">Rickshaw Stop</a>,
          San Francisco - January 6, 2012<br />
          <a href="https://www.facebook.com/Return.to.mono.sf">Return to Mono</a>
       </p>
+
   - filename: 2012-01-stripmall-architecture.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157628819422581
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
          <a href="http://www.rickshawstop.com/" target="_blank">Rickshaw Stop</a>,
          San Francisco - January 6, 2012<br />
@@ -168,8 +170,8 @@ photos:
 
   - filename: 2012-07-amanda-palmer-gto-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157630894402544/
+    title: Amanda Palmer and the Grand Theft Orchestra
     caption: >
-      <h4>Amanda Palmer and the Grand Theft Orchestra<h4>
       <p>
         <a href="http://publicsf.com/" target="_blank">Public Works</a>,
         San Francisco - July 13, 2012<br />
@@ -178,8 +180,8 @@ photos:
 
   - filename: 2012-07-amanda-palmer-gto-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157630894402544/
+    title: Amanda Palmer and the Grand Theft Orchestra
     caption: >
-      <h4>Amanda Palmer and the Grand Theft Orchestra<h4>
       <p>
         <a href="http://publicsf.com/" target="_blank">Public Works</a>,
         San Francisco - July 13, 2012<br />
@@ -188,8 +190,8 @@ photos:
 
   - filename: 2012-08-randy-odel.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632088296209/
+    title: Randy Odell
     caption: >
-      <h4>Randy Odell</h4>
       <p>
         <a href="http://www.reddevillounge.com/" target="_blank">Red Devil Lounge</a>,
         San Francisco - August 13, 2012<br />
@@ -199,8 +201,8 @@ photos:
 
   - filename: 2012-09-unwoman-uptown.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632089813563/
+    title: Unwoman - The Fires I Started
     caption: >
-      <h4>Unwoman - The Fires I Started</h4>
       <p>
         The Uptown, Oakland - September 19, 2012<br />
         <a href="http://www.unwoman.com" target="_blank">Unwoman</a>
@@ -212,8 +214,8 @@ photos:
 
   - filename: 2012-11-corpus-callosum.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632125079647/
+    title: Corpus Callosum
     caption: >
-      <h4>Corpus Callosum</h4>
       <p>
         Fortress Callosum, San Francisco - November 18, 2012<br />
         <a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>
@@ -221,8 +223,8 @@ photos:
 
   - filename: 2012-12-jill-tracy-dna-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855027/
+    title: Jill Tracy
     caption: >
-      <h4>Jill Tracy</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -233,8 +235,8 @@ photos:
 
   - filename: 2012-12-jill-tracy-dna-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855027/
+    title: Jill Tracy
     caption: >
-      <h4>Jill Tracy</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -245,8 +247,8 @@ photos:
 
   - filename: 2012-12-kim-boekbinder-dna.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855039/
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -257,8 +259,8 @@ photos:
 
   - filename: 2012-12-parlour-trick-dna.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855027/
+    title: The Parlour Trick
     caption: >
-      <h4>The Parlour Trick</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -269,8 +271,8 @@ photos:
 
   - filename: 2012-12-this-cant-end-well-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855033/
+    title: This Can't End Well
     caption: >
-      <h4></h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -281,8 +283,8 @@ photos:
 
   - filename: 2012-12-this-cant-end-well-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855033/
+    title: This Can't End Well
     caption: >
-      <h4></h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -293,8 +295,8 @@ photos:
 
   - filename: 2012-12-victoria-vaudevillains-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855033/
+    title: Victoria and the Vaudevillains
     caption: >
-      <h4></h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -307,8 +309,8 @@ photos:
 
   - filename: 2012-12-victoria-vaudevillains-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157632350855033/
+    title: Victoria and the Vaudevillains
     caption: >
-      <h4></h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -321,8 +323,8 @@ photos:
 
   - filename: 2013-04-htda.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157633332244375/
+    title: How To Destroy Angels
     caption: >
-      <h4>How To Destroy Angels</h4>
       <p>
         <a href="http://www.theregencyballroom.com/" target="_blank">The Regency Ballroom</a>,
         San Francisco - April 18, 2013<br />
@@ -331,8 +333,8 @@ photos:
 
   - filename: 2013-09-jill-tracy-cafe-du-nord-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157635557016145/
+    title: Jill Tracy
     caption: >
-      <h4>Jill Tracy</h4>
       <p>
         Cafe du Nord, San Francisco - September 9, 2013<br />
         <a href="http://www.jilltracy.com" target="_blank">Jill Tracy</a>
@@ -340,8 +342,8 @@ photos:
 
   - filename: 2013-09-randy-odel-cafe-du-nord.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157635557016145/
+    title: Randy Odell
     caption: >
-      <h4>Randy Odell</h4>
       <p>
         Cafe du Nord, San Francisco - September 9, 2013<br />
         Randy Odell performing with <a href="http://www.jilltracy.com" target="_blank">Jill Tracy</a>
@@ -349,8 +351,8 @@ photos:
 
   - filename: 2013-11-kim-boekbinder-viracocha.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157637931204094/
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder<h4>
       <p>
         <a href="http://viracochasf.com/" target="_blank">Viracocha</a>,
         San Francisco - November 20, 2013<br />
@@ -359,8 +361,8 @@ photos:
 
   - filename: 2013-11-unwoman-viracocha-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157637931204094/
+    title: Unwoman
     caption: >
-      <h4>Unwoman<h4>
       <p>
         <a href="http://viracochasf.com/" target="_blank">Viracocha</a>,
         San Francisco - November 20, 2013<br />
@@ -369,8 +371,8 @@ photos:
 
   - filename: 2013-11-unwoman-viracocha-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157637931204094/
+    title: Unwoman
     caption: >
-      <h4>Unwoman<h4>
       <p>
         <a href="http://viracochasf.com/" target="_blank">Viracocha</a>,
         San Francisco - November 20, 2013<br />
@@ -379,8 +381,8 @@ photos:
 
   - filename: 2013-12-amanda-palmer.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157638844517715/
+    title: Amanda Palmer
     caption: >
-      <h4>Amanda Palmer</h4>
       <p>
         San Francisco - December 6, 2013<br />
         <a href="http://www.amandapalmer.net">Amanda Palmer</a>
@@ -388,8 +390,8 @@ photos:
 
   - filename: 2014-06-armen-ra-dna.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157645023078147/
+    title: Armen Ra
     caption: >
-      <h4>Armen Ra</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -402,8 +404,8 @@ photos:
 
   - filename: 2014-06-stripmall-architecture-dna-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157645024318507
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -414,8 +416,8 @@ photos:
 
   - filename: 2014-06-stripmall-architecture-dna-3.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157645024318507
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -426,8 +428,8 @@ photos:
 
   - filename: 2014-06-stripmall-architecture-dna-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157645024318507
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -438,8 +440,8 @@ photos:
 
   - filename: 2014-06-theremina-dna.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157645023078147/
+    title: Meredith Yayanos
     caption: >
-      <h4>Meredith Yayanos</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -
@@ -452,8 +454,8 @@ photos:
 
   - filename: 2014-11-einstuerzende-neubauten-ljubljana-1.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157649941291156
+    title: Einstürzende Neubauten
     caption: >
-      <h4>Einstürzende Neubauten</h4>
       <p>
         <a href="http://www.kinosiska.si/en" target="_blank">Kino Šiška</a>,
         Ljubljana, Slovenia - November 27, 2014
@@ -465,8 +467,8 @@ photos:
 
   - filename: 2014-11-einstuerzende-neubauten-ljubljana-2.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157649941291156
+    title: Einstürzende Neubauten
     caption: >
-      <h4>Einstürzende Neubauten</h4>
       <p>
         <a href="http://www.kinosiska.si/en" target="_blank">Kino Šiška</a>,
         Ljubljana, Slovenia - November 27, 2014
@@ -478,8 +480,8 @@ photos:
 
   - filename: 2014-11-einstuerzende-neubauten-ljubljana-3.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157649941291156
+    title: Einstürzende Neubauten
     caption: >
-      <h4>Einstürzende Neubauten</h4>
       <p>
         <a href="http://www.kinosiska.si/en" target="_blank">Kino Šiška</a>,
         Ljubljana, Slovenia - November 27, 2014
@@ -491,8 +493,8 @@ photos:
 
   - filename: 2015-04-covenant.jpg
     flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157652188633268
+    title: Covenant
     caption: >
-      <h4>Covenant</h4>
       <p>
         <a href="http://www.dnalounge.com" target="_blank">DNA Lounge</a>,
         San Francisco -

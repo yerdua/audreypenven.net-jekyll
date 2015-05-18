@@ -5,7 +5,7 @@ $(function(){
       $('img', this.$content).attr('style', 'max-height:' + (height - 30) + 'px;');
 
       var width = $('.featherlight-content', this.$instance).width();
-      $('.caption', this.$content).attr('style', 'width:' + width + 'px;');
+      $('.meta', this.$content).attr('style', 'width:' + width + 'px;');
     }
   });
 });

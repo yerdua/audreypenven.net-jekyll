@@ -2,31 +2,43 @@ title: Portraits
 
 photos:
   - filename: kim-boekbinder-glitter-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157627897919291
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder</h4>
       <p>
+        October 2011, San Francisco<br />
         Model: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a><br />
         Photo Assistance: <a href="http://www.qtrnevermore.com" target="_blank">Trista Musco</a>
       </p>
+
   - filename: nadia-2.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157649023307394
+    title: Nadia in February
     caption: >
-      <h4>Nadia</h4>
-      <p>February 2015</p>
-  - filename: meeks-1.jpg
-    caption: >
-      <h4>Grace Bones</h4>
       <p>
+        February 2015, San Francisco<br />
+        Model: Nadia
+      </p>
+
+  - filename: meeks-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157641543126575
+    title: Grace Bones
+    caption: >
+      <p>
+        December 2013, San Francisco<br />
         Model, Styling: Grace Bones<br />
         Photo Assistance: <a href="http://www.nadyalevphoto.com" target="_blank">Nadya Lev</a>
       </p>
+
   - filename: spider-jerusalem.jpg
+    title: Spider Jerusalem
     caption: >
-      <h4>Spider Jerusalem</h4>
       <p>
         For "Transmetropolitan: All Around The World", a collection of artworks inspired by
         <a href="http://www.warrenellis.com/" target="_blank">Warren Ellis</a> and Darick Robertson’s Transmetropolitan.
       </p>
       <p>
+        February 2011, San Francisco<br />
         Model, Post-production: <a href="http://www.twitter.com/sfslim" target="_blank">Aaron Muszalski</a><br />
         Makeup, Post-production: Lee Dotson<br />
         Lighting Aerialist: <a href="http://www.mikeestee.com" target="_blank">Mike Estee</a><br />
@@ -37,13 +49,15 @@ photos:
         Laser, Lighting Assistance: <a href="http://www.raindrift.com" target="_blank">Ian Baker</a><br />
         Bourbon Angel: <a href="http://valerieleavy.com/" target="_blank">Valerie Leavy</a>
       </p>
+
   - filename: fragmented-self.jpg
+    title: Fragmented Self
     caption: >
-      <h4>Fragmented Self</h4>
       <p>self-portrait, June, 2012</p>
+
   - filename: steen-1.jpg
+    title: Light Stutters
     caption: >
-      <h4>Light Stutters</h4>
       <p>
         <a href="http://mediapathic.net/" target="_blank">Steen Comer</a> with
         <a href="http://www.gabeytjonatham.com/" target="_blank">Gabey Tjon a Tham</a>'s "Red Horizon"
@@ -53,155 +67,213 @@ photos:
         <br />
         Ljubljana, November 26, 2014
       </p>
+
   - filename: jill-tracy-lace-shadows-2.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626848859709
+    title: In Lace Shadows
     caption: >
-      <h4>In Lace Shadows</h4>
       <p>
+        June 2011, San Francisco<br />
         Model: <a href="http://www.jilltracy.com" target="_blank">Jill Tracy</a><br />
         Design & Construction of <a href="http://www.mikeestee.com/blog/2011/06/the-accidental-strobist/" target="_blank">Slide!Flash</a>:
         <a href="http://www.mikeestee.com/portfolio" target="_blank">Mike Estee</a><br />
         Location Coordination, Assistance: Eli Rosseter<br />
         Assistance: <a href="http://www.twitter.com" target="_blank">Aaron Muszalski</a>
       </p>
+
   - filename: stripmall-architecture-2010-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157623996070872
+    title: Stripmall Architecture
     caption: >
-      <h4>Stripmall Architecture</h4>
       <p>
-        Rebecca Coseboom of <a href="http://www.stripmallarchitecture.com/" target="_blank">Stripmall Architecture</a>, April 2010
+        April 2010, San Francisco<br />
+        Rebecca Coseboom of <a href="http://www.stripmallarchitecture.com/" target="_blank">Stripmall Architecture</a>
       </p>
+
   - filename: unwoman-circling-3.jpg
+    title: Unwoman - Circling
     caption: >
-      <h4>Unwoman - Circling</h4>
       <p>
+        March 2014, Lafayette, CA<br />
         photoshoot for <a href="https://unwoman.bandcamp.com/album/circling" target="_blank">Circling</a><br />
         Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
         Photo Assistance: Kat Mulkey
       </p>
+
   - filename: dworia.jpg
+    title: Dwoira Galilea
     caption: >
-      <h4>Dwoira Galilea</h4>
       <p>
+        August 2012, San Francisco<br />
         Model: Dwoira Galilea<br />
         Corset: <a href="http://www.darkgarden.com" target="_blank">Dark Garden</a>
       </p>
+
   - filename: theremina.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157639461014434
+    title: Theremina
     caption: >
-      <h4>Theremina</h4>
       <p>
+        December 2013, San Francisco<br />
         Model, Makeup: <a href="https://theparlourtrick.bandcamp.com/" target="_blank">Meredith Yayanos</a><br />
         Photo Assistance: <a href="http://www.nadyalevphoto.com/" target="_blank">Nadya Lev</a>
       </p>
+
   - filename: unwoman-fires-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157629523312655
+    title: Unwoman - The Fires I Started
     caption: >
-      <h4>Unwoman - The Fires I Started</h4>
       <p>
+        February 2012, San Francisco<br />
         photoshoot for <a href="https://unwoman.bandcamp.com/album/the-fires-i-started">The Fires I Started</a><br />
         Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
         Projections: <a href="http://www.mediapathic.net/" target="_blank">Steen Comer</a><br />
         Lighting Assistance: <a href="http://www.qtrnevermore.com/" target="_blank">Trista Musco</a><br />
         Photoshoot Assistance: <a href="https://twitter.com/annthurium" target="_blank">Tilde</a>
       </p>
+
   - filename: dymaxion.jpg
+    title: Eleanor Saitta
     caption: >
-      <h4>Eleanor Saitta</h4>
       <p><a href="http://dymaxion.org/" target="_blank">Eleanor Saitta</a>, San Francisco, 2014</p>
+
   - filename: unwoman-fires-3.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157629523312655
+    title: Unwoman - The Fires I Started
     caption: >
-      <h4>Unwoman - The Fires I Started</h4>
       <p>
+        February 2012, San Francisco<br />
         photoshoot for <a href="https://unwoman.bandcamp.com/album/the-fires-i-started">The Fires I Started</a><br />
         Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
         Projections: <a href="http://www.mediapathic.net/" target="_blank">Steen Comer</a><br />
         Lighting Assistance: <a href="http://www.qtrnevermore.com/" target="_blank">Trista Musco</a><br />
         Photoshoot Assistance: <a href="https://twitter.com/annthurium" target="_blank">Tilde</a>
       </p>
+
   - filename: jill-tracy-lace-shadows-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157626848859709
+    title: In Lace Shadows
     caption: >
-      <h4>In Lace Shadows</h4>
       <p>
+        June 2011, San Francisco<br />
         Model: <a href="http://www.jilltracy.com" target="_blank">Jill Tracy</a><br />
         Design & Construction of <a href="http://www.mikeestee.com/blog/2011/06/the-accidental-strobist/" target="_blank">Slide!Flash</a>:
         <a href="http://www.mikeestee.com/portfolio" target="_blank">Mike Estee</a><br />
         Location Coordination, Assistance: Eli Rosseter<br />
         Assistance: <a href="http://www.twitter.com" target="_blank">Aaron Muszalski</a>
       </p>
+
   - filename: kim-boekbinder-glitter-3.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157627897919291
+    title: Kim Boekbinder
     caption: >
-      <h4>Kim Boekbinder</h4>
       <p>
-        Model: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a><br />
-        Photo Assistance:<a href="http://www.qtrnevermore.com" target="_blank">Trista Musco</a>
-      </p>
-  - filename: unwoman-casualties-1.jpg
-    caption: >
-      <h4>Unwoman - Casualties</h4>
-      <p>
-        photoshoot for <a href="https://unwoman.bandcamp.com/album/casualties" target="_blank">Casualties</a><br />
-        Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
-        Photo Assistance: Kat Mulkey<br />
-      </p>
-  - filename: meeks-2.jpg
-    caption: >
-      <h4>Grace Bones</h4>
-      <p>
-        Model, Styling: Grace Bones<br />
-        Photo Assistance: <a href="http://www.nadyalevphoto.com" target="_blank">Nadya Lev</a>
-      </p>
-  - filename: kim-boekbinder-spacegirl-2.jpg
-    caption: >
-      <h4>Impossible Spacegirl</h4>
-      <p>
-        Model: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a>
-      </p>
-  - filename: nadia-1.jpg
-    caption: >
-      <h4>Nadia</h4>
-      <p>February 2015</p>
-  - filename: unwoman-circling-1.jpg
-    caption: >
-      <h4>Unwoman - Circling</h4>
-      <p>
-        photoshoot for <a href="https://unwoman.bandcamp.com/album/circling" target="_blank">Circling</a><br />
-        Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
-        Photo Assistance: Kat Mulkey
-      </p>
-  - filename: maggie-dave.jpg
-    caption: >
-      <h4>Maggie & Dave</h4>
-      <p>
-        Models: <a href="http://maggiepowers.com/" target="_blank">Maggie Powers</a> and Dave Herzenberg<br />
-        Corsets: <a href="http://www.darkgarden.com" target="_blank">Dark Garden</a>
-      </p>
-  - filename: kim-boekbinder-glitter-2.jpg
-    caption: >
-      <h4>Kim Boekbinder</h4>
-      <p>
+        October 2011, San Francisco<br />
         Model: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a><br />
         Photo Assistance: <a href="http://www.qtrnevermore.com" target="_blank">Trista Musco</a>
       </p>
-  - filename: unwoman-casualties-2.jpg
+
+  - filename: unwoman-casualties-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157623324437402
+    title: Unwoman - Casualties
     caption: >
-      <h4>Unwoman - Casualties</h4>
       <p>
+        January 2010, Oakland<br />
         photoshoot for <a href="https://unwoman.bandcamp.com/album/casualties" target="_blank">Casualties</a><br />
         Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
         Photo Assistance: Kat Mulkey<br />
       </p>
-  - filename: kim-boekbinder-spacegirl-1.jpg
+
+  - filename: meeks-2.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157641543126575
+    title: Grace Bones
     caption: >
-      <h4>Impossible Spacegirl</h4>
       <p>
-        Model: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a>
+        December 2013, San Francisco<br />
+        Model, Styling: Grace Bones<br />
+        Photo Assistance: <a href="http://www.nadyalevphoto.com" target="_blank">Nadya Lev</a>
       </p>
-  - filename: unwoman-circling-2.jpg
+
+  - filename: kim-boekbinder-spacegirl-2.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157630396884232
+    title: Impossible Spacegirl
     caption: >
-      <h4>Unwoman - Circling</h4>
       <p>
+        June 2012, San Francisco<br />
+        Model, Styling: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a><br />
+        Photo Assistance: <a href="http://www.nadyalevphoto.com" target="_blank">Nadya Lev</a>
+      </p>
+
+  - filename: nadia-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157649023307394
+    title: Nadia in February
+    caption: >
+      <p>
+        February 2015, San Francisco<br />
+        Model: Nadia
+      </p>
+
+  - filename: unwoman-circling-1.jpg
+    title: Unwoman - Circling
+    caption: >
+      <p>
+        March 2014, Lafayette, CA<br />
         photoshoot for <a href="https://unwoman.bandcamp.com/album/circling" target="_blank">Circling</a><br />
         Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
         Photo Assistance: Kat Mulkey
       </p>
-  - filename: nancy-vienna.jpg
+
+  - filename: maggie-dave.jpg
+    title: Maggie and Dave
     caption: >
-      <h4>Nancy Mauro-Flude</h4>
+      <p>
+        August 2012, San Francisco<br />
+        Models: <a href="http://maggiepowers.com/" target="_blank">Maggie Powers</a> and Dave Herzenberg<br />
+        Corsets: <a href="http://www.darkgarden.com" target="_blank">Dark Garden</a>
+      </p>
+
+  - filename: kim-boekbinder-glitter-2.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157627897919291
+    title: Kim Boekbinder
+    caption: >
+      <p>
+        October 2011, San Francisco<br />
+        Model: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a><br />
+        Photo Assistance: <a href="http://www.qtrnevermore.com" target="_blank">Trista Musco</a>
+      </p>
+
+  - filename: unwoman-casualties-2.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157623324437402
+    title: Unwoman - Casualties
+    caption: >
+      <p>
+        January 2010, Oakland<br />
+        photoshoot for <a href="https://unwoman.bandcamp.com/album/casualties" target="_blank">Casualties</a><br />
+        Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
+        Photo Assistance: Kat Mulkey<br />
+      </p>
+
+  - filename: kim-boekbinder-spacegirl-1.jpg
+    flickr_link: https://www.flickr.com/photos/audreypenven/sets/72157630396884232
+    title: Impossible Spacegirl
+    caption: >
+      <p>
+        June 2012, San Francisco<br />
+        Model, Styling: <a href="http://www.kimboekbinder.com/" target="_blank">Kim Boekbinder</a><br />
+        Photo Assistance: <a href="http://www.nadyalevphoto.com" target="_blank">Nadya Lev</a>
+      </p>
+
+  - filename: unwoman-circling-2.jpg
+    title: Unwoman - Circling
+    caption: >
+      <p>
+        March 2014, Lafayette, CA<br />
+        photoshoot for <a href="https://unwoman.bandcamp.com/album/circling" target="_blank">Circling</a><br />
+        Model: <a href="http://unwoman.com/" target="_blank">Unwoman</a><br />
+        Photo Assistance: Kat Mulkey
+      </p>
+
+  - filename: nancy-vienna.jpg
+    title: Nancy Mauro-Flude
+    caption: >
       <p><a href="http://sister0.org/" target="_blank">Nancy Mauro-Flude</a>, Vienna, April 2008</p>

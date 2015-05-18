@@ -3,24 +3,36 @@ title: Six
 primary-photo: 2.jpg
 photos:
   - filename: 1.jpg
-    caption: '<h4>Six Ships</h4><p>Berlin 2009</p>'
+    title: Six Ships
+    caption: '<p>Berlin 2009</p>'
+
   - filename: 2.jpg
-    caption: '<a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>'
+    title: '<a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>'
+
   - filename: 3.jpg
-    caption: 'Reed'
+    title: Reed
+
   - filename: 4.jpg
-    caption: '<a href="http://www.qtrnevermore.com/" target="_blank">Trista Musco</a>'
+    title: '<a href="http://www.qtrnevermore.com/" target="_blank">Trista Musco</a>'
+
   - filename: 5.jpg
-    caption: '<h4>Alice followed the White Rabbit</h4><p>self-portrait, 2008</p>'
+    title: Alice followed the White Rabbit
+    caption: '<p>self-portrait, 2008</p>'
+
   - filename: 6.jpg
     caption: 'self-portrait, 2009'
+
   - filename: 7.jpg
-    caption: 'Kelly, with six faces'
+    title: 'Kelly, with six faces'
+
   - filename: 8.jpg
-    caption: '<a href="http://www.syzygryd.com/" target="_blank">Syzygryd</a>'
+    title: '<a href="http://www.syzygryd.com/" target="_blank">Syzygryd</a>'
+
   - filename: 9.jpg
-    caption: '<a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>'
+    title: '<a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>'
+
   - filename: 10.jpg
-    caption: '<h4>Layers of a Fallen Angel</h4>'
+    title: Layers of a Fallen Angel</h4>
+
   - filename: 11.jpg
-    caption: 'A Trapeze Performance'
+    title: A Trapeze Performance
