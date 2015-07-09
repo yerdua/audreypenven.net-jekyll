@@ -36,7 +36,7 @@ module Jekyll
 
         "https://farm#{farm}.staticflickr.com/#{server}/#{primary_id}_#{secret}_#{size}.jpg"
       end
-    end 
+    end
   end
 
   class FlickrAlbumTag < Liquid::Tag
@@ -63,7 +63,7 @@ module Jekyll
     def render(context)
       # I hate this one line html crap, but it breaks haml to not do it this way
       @albums.map do |album|
-        "<div class='flickr-album'><img src='#{album.primary_large_square_url}' alt='#{album.title}'><a href='#{album.flickr_url}'><h4 class='album-title'>#{album.title}</h4></a></div>"
+        "<div class='flickr-album-link album-link'><img src='#{album.primary_large_square_url}' alt='#{album.title}'><a href='#{album.flickr_url}'><h4 class='album-title'>#{album.title}</h4></a></div>"
       end.join('')
     end
 

@@ -1,0 +1,26 @@
+---
+layout: default
+body_class: blog
+---
+<section class='primary-image'></section>
+
+<section class='title'>
+  <div class='container'>
+    <h1 class='black with-underline'>Sometimes I Write</h1>
+  </div>
+</section>
+
+<section class='posts'>
+  <div class='container'>
+    <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">
+          <h3 class='red with-underline'>{{ post.title }}</h3>
+        </a>
+        <div class='post-excerpt'>{{ post.excerpt }}</div>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</section>

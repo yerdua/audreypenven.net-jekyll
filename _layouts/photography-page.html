@@ -8,18 +8,16 @@ js_files:
 
 {% assign photography_set_data = site.data.photography[page.key] %}
 
-<section id='primary-image' class='{{ page.key }}'>
+<section id='primary-image' class='album-background-image {{ page.key }}'>
   <div class='container'>
   </div>
 </section>
 
 <section id='gallery'>
   <div class='container'>
-    <h1>{{ photography_set_data.title }}</h1>
+    <h1 class='red with-underline'>{{ photography_set_data.title }}</h1>
       {% for photo in photography_set_data.photos %}
-        <a href='#photo-{{ forloop.index0 }}'>
-          <img src='/images/photography/{{ page.key }}/thumbnails/{{ photo.filename }}' class='thumbnail'>
-        </a>
+        <a href='#photo-{{ forloop.index0 }}'><img src='/images/photography/{{ page.key }}/thumbnails/{{ photo.filename }}' class='thumbnail'></a>
       {% endfor %}
   </div>
 </section>

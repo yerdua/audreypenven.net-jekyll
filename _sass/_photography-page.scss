@@ -1,36 +1,34 @@
 .photography-page-body {
   h1 {
-    color: $blood-red;
-    border-bottom: 3px solid $blood-red;
     margin-bottom: 30px;
   }
-  section:nth-child(even) {
-    background-color: $black;
-    color: $silver;
-  }
-  section:nth-child(odd) {
-    background-color: $blood-red;
-    color: $black;
-    a {
-      color: $black;
-      text-decoration: underline;
-    }
-  }
-  .primary-photo {
-    margin: 0 auto;
-  }
+  // section:nth-child(even) {
+  //   background-color: $black;
+  //   color: $silver;
+  // }
+  // section:nth-child(odd) {
+  //   background-color: $blood-red;
+  //   color: $black;
+  //   a {
+  //     color: $black;
+  //     text-decoration: underline;
+  //   }
+  // }
 
-  #primary-image {
-    height: 500px;
+  .album-background-image {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    height: 200px;
 
     &.an-incomplete-rebirth {
       background-image: url('/images/photography/an-incomplete-rebirth/background.jpg');
     }
     &.dancing-with-invisible-light {
       background-image: url('/images/photography/dancing-with-invisible-light/background.jpg');
+    }
+    &.hubba-hubba-revue {
+      background-image: url('/images/photography/hubba-hubba-revue/background.jpg');
     }
     &.music {
       background-image: url('/images/photography/music/background.jpg');
@@ -42,16 +40,17 @@
       background-image: url('/images/photography/six/background.jpg');
     }
   }
+  #primary-image {
+    height: 500px;
+  }
 
-  // h4 {
-  //   margin-bottom: 0;
-  // }
   .model-list {
     list-style: none;
     margin: 0;
+    margin-bottom: 20px;
     li {
       display: inline-block;
-      margin-right: 10px;
+      margin-right: 15px;
     }
   }
 }

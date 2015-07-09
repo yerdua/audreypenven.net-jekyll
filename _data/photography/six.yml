@@ -4,7 +4,8 @@ primary-photo: 2.jpg
 photos:
   - filename: 1.jpg
     title: Six Ships
-    caption: '<p>Berlin 2009</p>'
+    caption: >
+      <p>Berlin 2009</p>
 
   - filename: 2.jpg
     title: '<a href="http://www.corpus.cc/" target="_blank">Corpus Callosum</a>'

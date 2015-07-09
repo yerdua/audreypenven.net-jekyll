@@ -1,8 +1,9 @@
 #site-title {
 	height: 500px;
-	background-image: url("/images/section_backgrounds/index2.jpg");
+	background-image: url("/images/section_backgrounds/dancing-with-invisible-light-cking.jpg");
 	background-attachment: fixed;
-	background-position: 0 $top-nav-height;
+	background-position: center $top-nav-height;
+	background-size: cover;
 	padding-top: 200px;
 
 	.title {
@@ -11,6 +12,7 @@
 		margin: auto;
 		opacity: 0.9;
 		padding: 40px;
+		max-width: 800px;
 		img {
 			width: 100%;
 		}
@@ -33,17 +35,21 @@
 			margin-right: 20px;
 			margin-bottom: 10px;
 		}
-		h2 {
-			border-bottom: 3px solid $blood-red;
-		}
 	}
 	a.more {
 	  @include trend-sans-font;
-	  border-bottom: 2px solid $blood-red;
-	  &:hover, &:focus, &:visited {
-	  	text-decoration: none;
+	  text-decoration: none;
+	  border-bottom: 2px solid $black;
+	  &:hover, &:focus {
+	  	background-color: $dark-cherry;
 	  }
-		// text-decoration: underline;
+	}
+	.flickr {
+	  img {
+	    border-color: $black;
+	    border-style: solid;
+	    border-width: 2px;
+	  }
 	}
 }
 

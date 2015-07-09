@@ -20,9 +20,9 @@
   nav.site-nav {
     float: right;
   	@include trend-sans-font;
-    a { 
+    a {
       color: $silver;
-      &:hover { 
+      &:hover {
         color: $dark-cherry;
         text-decoration: none;
       }
@@ -120,14 +120,58 @@
 .wrapper {
   padding-top: $top-nav-height;
 }
-.page-content {
-  background-color: $white;
-  position: relative;
+// .page-content {
+//   background-color: $white;
+//   position: relative;
+// }
+
+%red-section {
+  background-color: $blood-red;
+  color: $black;
+  a {
+    color: $black;
+    text-decoration: underline;
+    &:hover, &:focus {
+      background-color: $dark-cherry;
+    }
+  }
+}
+
+%black-section {
+  background-color: $black;
+  color: $silver;
+  a {
+    color: $blood-red;
+    text-decoration: none;
+    &:visited, &:focus {
+      color: darken($blood-red, 5%);
+    }
+
+    &:hover {
+      color: lighten($blood-red, 5%);
+      text-decoration: underline;
+    }
+  }
 }
 
 section {
   padding: 50px;
+
+  &:nth-child(even) {
+    @extend %black-section;
+  }
+
+  &:nth-child(odd) {
+    @extend %red-section;
+  }
 }
+.primary-image {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
 
 // .page-heading {
 //     font-size: 20px;

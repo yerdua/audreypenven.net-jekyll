@@ -92,6 +92,23 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   @include trend-sans-font;
+
+  &.with-underline {
+    &.red {
+      color: $blood-red;
+      border-bottom: 3px solid $blood-red;
+    }
+
+    &.silver {
+      color: $silver;
+      border-bottom: 3px solid $silver;
+    }
+
+    &.black {
+      color: $black;
+      border-bottom: 3px solid $black;
+    }
+  }
 }
 
 
@@ -99,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a, {
+a {
   color: $blood-red;
   text-decoration: none;
 
@@ -214,35 +231,36 @@ pre {
   }
 }
 
-.flickr-album {
+.album-link {
   text-align: left;
   position: relative;
-  height: 150px;
-  width: 150px;
   display: inline-block;
   margin: 10px;
-  image, .album-title {
+  .album-title {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-  }
-  image {
-    z-index: 1;
-  }
-  .album-title {
     overflow: hide;
     opacity: 0;
-    z-index: 2;
     padding: 5px;
     &:hover {
       background-color: $blood-red;
       color: $black;
-      opacity: 0.6;
+      opacity: 0.8;
     }
   }
+}
 
+.flickr-album-link {
+  height: 150px;
+  width: 150px;
+}
+
+.portfolio-link {
+  height: 200px;
+  width: 200px
 }
 
 /**

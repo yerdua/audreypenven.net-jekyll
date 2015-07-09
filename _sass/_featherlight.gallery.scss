@@ -24,18 +24,21 @@
 		background: rgba(0,0,0,0);
 	}
 	.featherlight-next {
-		left: 80%;
 		right: 0px;
+		max-width: 50px;
 	}
 	.featherlight-previous {
 		left: 0px;
-		right: 80%;
+		max-width: 50px;
 	}
 
 	.featherlight-next i,
 	.featherlight-previous i {
 		display: inline-block;
 		position: absolute;
+
+		padding-left: 10px;
+		padding-right: 10px;
 
 		top: 50%;
 		left: 5%;

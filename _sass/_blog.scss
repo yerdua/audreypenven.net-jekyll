@@ -1,0 +1,13 @@
+.blog-body {
+  .primary-image {
+    background-image: url('/images/section_backgrounds/blog.jpg');
+  }
+
+  section:nth-child(even) { @extend %red-section; }
+
+  section:nth-child(odd) { @extend %black-section; }
+}
+.posts ul {
+  list-style: none;
+  margin-left: 0;
+}

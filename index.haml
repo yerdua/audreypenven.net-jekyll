@@ -4,48 +4,77 @@ body_class: index
 ---
 
 %section#site-title
-	.container
-		.row
-			.col-xs-12
-				.title
-					%img{src: '/images/logo_large.png'}
+	.title
+		%img.site-logo{src: '/images/logo_large.png'}
 
 %section.portfolio
 	.container
-		.row
-			.col-xs-12
-				%h2 Portfolio
-			.col-xs-12
-				%a{href: '/portfolio/portraits'}
-					portraits
-				%a{href: 'portfolio/performance'}
-					performance
-				%a{href: 'portfolio/events'}
-					events
-				%a{href: 'portfolio/projects'}
-					projects
-%section.about
-	.container
-		.row
-			.col-xs-12
-				%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
-				%p
-					Audrey Penven
+		%div
+			%h2.red.with-underline Projects
+			{% photo_page_link_tag dancing-with-invisible-light %}
+			{% photo_page_link_tag six %}
+
+		%div
+			%h2.red.with-underline Collections
+			{% photo_page_link_tag music %}
+			{% photo_page_link_tag portraits %}
+			{% photo_page_link_tag hubba-hubba-revue %}
+
+/ %section.about
+/ 	.container
+/ 		%div
+/ 			%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
+/ 			%p
+/ 				Audrey Penven
 
 %section.flickr
 	.container
-		.row
-			.col-xs-12
-				%h2 Flickr Stream
-			.col-xs-12
-				{% flickr_recent_albums 6 %}
-			.col-xs-12.text-right
-				%a.more{href: 'https://www.flickr.com/photos/audreypenven/sets'}
-					more
+		%div
+			%h2.black.with-underline Flickr Stream
+		%div
+			{% flickr_recent_albums 6 %}
+		.text-right
+			%a.more{href: 'https://www.flickr.com/photos/audreypenven/sets'}
+				more
 %section.contact
 	.container
-		.row
-			.col-xs-12
-				%i.fa.fa-twitter
-				%i.fa.fa-flickr
-				%i.fa.fa-envelope
+		%div
+			%img.black-border.bio-photo.pull-left{src: '/images/self_portrait_ljubljana.jpg'}
+
+			%h2.red Me, elsewhere
+			%table.find-elsewhere
+				%tr
+					%td
+						%i.fa.fa-fw.fa-envelope
+						email
+					%td
+						%a{href: 'mailto:audrey@audreypenven.net'}
+							audrey@audreypenven.net
+				%tr
+					%td
+						%i.fa.fa-fw.fa-twitter
+						twitter
+					%td
+						%a{href: 'http://www.twitter.com/yerdua'}
+							@yerdua
+				%tr
+					%td
+						%i.fa.fa-fw.fa-flickr
+						flickr
+					%td
+						%a{href: 'https://www.flickr.com/photos/audreypenven/'}
+							flickr.com/photos/audreypenven
+				%tr
+					%td
+						%i.fa.fa-fw.fa-instagram
+						instagram
+					%td
+						%a{href: 'http://instagram.com/y3rdua'}
+							@y3rdua
+				%tr
+					%td
+						%i.fa.fa-fw.fa-github
+						github
+					%td
+						%a{href: 'https://github.com/yerdua'}
+							github.com/yerdua
