@@ -1,13 +1,26 @@
-.blog-body {
+body.blog {
   .primary-image {
     background-image: url('/images/section_backgrounds/blog.jpg');
   }
 
-  section:nth-child(even) { @extend %red-section; }
 
-  section:nth-child(odd) { @extend %black-section; }
+  a.post-title {
+    &:hover, &:focus {
+      text-decoration: none;
+    }
+  }
+
 }
-.posts ul {
+ul.blog-post-list {
   list-style: none;
   margin-left: 0;
+  li {
+    margin-bottom: 30px;
+  }
+}
+.post-date {
+  color: $dark-cherry;
+}
+.post-excerpt {
+  color: $slate;
 }

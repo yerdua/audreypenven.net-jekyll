@@ -154,15 +154,19 @@
   }
 }
 
-section {
-  padding: 50px;
+section { padding: 50px; }
 
-  &:nth-child(even) {
-    @extend %black-section;
+body.red-first {
+  section {
+    &:nth-child(odd) { @extend %red-section; }
+    &:nth-child(even) { @extend %black-section; }
   }
+}
 
-  &:nth-child(odd) {
-    @extend %red-section;
+body.black-first {
+  section {
+    &:nth-child(odd) { @extend %black-section; }
+    &:nth-child(even) { @extend %red-section; }
   }
 }
 .primary-image {
